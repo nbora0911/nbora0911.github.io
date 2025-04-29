@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Risk Model Development at Capital One"
+title: "[PLACEHOLDER] Risk Model Development at Capital One"
 date: 2024-02-15
 categories: projects
 excerpt: "Developed a risk model to optimize customer engagement strategies and minimize losses for charged-off credit cards."

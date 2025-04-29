@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Generative AI Applications at Walmart"
+title: "[PLACEHOLDER] Generative AI Applications at Walmart"
 date: 2024-03-20
 categories: projects
 excerpt: "Leading the development of Generative AI applications to enhance customer experience and operational efficiency."
